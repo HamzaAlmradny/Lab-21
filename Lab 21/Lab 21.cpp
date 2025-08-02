@@ -1,3 +1,21 @@
+//Documentation Section
+
+/*
+File Name : Lab 21
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : Display the first 10 natural numbers.
+Date : 24/7/2025
+*/
+
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
